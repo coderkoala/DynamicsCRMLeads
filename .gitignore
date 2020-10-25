@@ -1,0 +1,7 @@
+.vs/
+./bin
+./debug
+./obj
+./ImporterMaster/debug
+./ImporterMaster/bin
+./ImporterMaster/obj
